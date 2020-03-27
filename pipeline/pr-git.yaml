@@ -6,6 +6,6 @@ spec:
   type: git
   params:
     - name: url
-      value: https://github.com/MohammedFadin/tektoncd-nodejs-tutorial
+      value: https://github.com/zeldi/tektoncd-nodejs-tutorial.git
     - name: revision
       value: master
